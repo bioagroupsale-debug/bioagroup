@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="cookie icon" width="100" height="100">
+  <defs>
+    <mask id="cookie-mask">
+      <rect width="100%" height="100%" fill="#fff"></rect>
+      <circle cx="80" cy="22" r="12" fill="#000"></circle>
+      <circle cx="88" cy="32" r="6" fill="#000"></circle>
+      <circle cx="72" cy="30" r="7" fill="#000"></circle>
+      <circle cx="36" cy="40" r="6" fill="#000"></circle>
+      <circle cx="56" cy="60" r="7" fill="#000"></circle>
+      <circle cx="46" cy="72" r="4.5" fill="#000"></circle>
+      <circle cx="62" cy="42" r="4" fill="#000"></circle>
+      <circle cx="30" cy="63" r="3.5" fill="#000"></circle>
+    </mask>
+  </defs>
+  <circle cx="50" cy="50" r="44" fill="#fff" mask="url(#cookie-mask)"></circle>
+  <circle cx="92" cy="26" r="3" fill="#fff"></circle>
+  <circle cx="86" cy="16" r="2" fill="#fff"></circle>
+</svg>
